@@ -18,6 +18,9 @@
 //}
 
 
+//尝试进行改动
+
+
 Stcok::Stcok()
 {
 	cout<<"Default constructor called\n";
